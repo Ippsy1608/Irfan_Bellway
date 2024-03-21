@@ -298,9 +298,12 @@ img:hover{
   /* margin-left: 777px; */
   transform: scale(.8);
     }
-    100%{
-  margin-left: 350px;
+    70%{
+  margin-left: 300px;
+
   /* transform: rotate(360deg); */
+    }100%{
+      margin-left: -112px;
     }
   }
 
@@ -328,9 +331,9 @@ border: 4px solid;
 
 
 .ninth-last{
-  width: 1400px;
-height: 950px;
-margin-top: 03px;
+  width: 1500px;
+height: 1250px;
+margin-top: -33px;
 margin-left: 10px;
 
 border-radius: 100px;
